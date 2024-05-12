@@ -60,11 +60,11 @@
 
 ## Screenshots Of Product
 
-* ![Text](/assets/screenshots/Portfolio_img1.png)
+* ![Home Page](/assets/screenshots/Portfolio_img1.png)
 
-* ![Text](/assets/screenshots/Portfolio_img2.png)
+* ![Resume Page](/assets/screenshots/Portfolio_img2.png)
 
-* ![Text](/assets/screenshots/Portfolio_img3.png)
+* ![Contact Page](/assets/screenshots/Portfolio_img3.png)
 
 
 
