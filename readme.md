@@ -1,10 +1,10 @@
-## Portfolio Website
+# Portfolio Website
 
 
-## This was a website built to showcase my technical skills, web design skills.
+* This was a website built to showcase my technical skills, web design skills.
 
 
-## Who is going to be viewing This Website
+## Who's going to be viewing This Website?
 
 * Potential Employers Who Want a Visual Understanding Of What I Do.
 
@@ -60,11 +60,11 @@
 
 ## Screenshots Of Product
 
-* ![Text](https://imgur.com/6REnWtW)
+* ![Text](/assets/screenshots/Portfolio_img1.png)
 
-* Soon
+* ![Text](/assets/screenshots/Portfolio_img2.png)
 
-* Soon
+* ![Text](/assets/screenshots/Portfolio_img3.png)
 
 
 
