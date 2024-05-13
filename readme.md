@@ -68,11 +68,11 @@
 
 ## Screenshots Of Product
 
-* ![Home Page](/assets/screenshots/Portfolio_img1.png)
+![Home Page](/assets/screenshots/Portfolio_img1.png)
 
-* ![Resume Page](/assets/screenshots/Portfolio_img2.png)
+![Resume Page](/assets/screenshots/Portfolio_img2.png)
 
-* ![Contact Page](/assets/screenshots/Portfolio_img3.png)
+![Contact Page](/assets/screenshots/Portfolio_img3.png)
 
 
 
@@ -80,6 +80,8 @@
 ## Testing The Web On Local Server
 
 * python3 -m http.server
+
+![Screenshot of using command above](/assets/screenshots/starting_with_python3.png)
 
 
 ## My Hosted Version Of The Site
@@ -101,3 +103,14 @@
 * The button the the download CV is operating and is working as it should.
 
 * I have tested this website and a number of browsers and all was good. Opera, Google, Firefox, Microsoft Edge.
+
+## Bug Report
+
+* I didnt come across any bugs while making this project as i was following lessons from code institute to make this portfolio website.
+
+## HTML And CSS Validation
+
+![CSS Validation](/assets/screenshots/css_validatepng)
+
+![HTML Validation](/assets/screenshots/html_validate.png)
+
