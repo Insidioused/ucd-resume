@@ -50,11 +50,19 @@
 
 * CSS3
 
-* JavaScript (If Not Implemented Yet Will Be Soon)
-
 * Git
 
 * GitHub
+
+
+
+## External Styles
+
+* Font Awesome
+
+* Bootstrap
+
+* Hover Affect
 
 
 
@@ -69,3 +77,27 @@
 
 
 
+## Testing The Web On Local Server
+
+* python3 -m http.server
+
+
+## My Hosted Version Of The Site
+
+* http://newapi.gearhostpreview.com
+
+
+
+## Website Testing
+
+* This site hasnt required too much testing as its a really basic site with only 3 seperate pages.
+
+* I have tested on all mobile, tablet and desktop views and it all looks great.
+
+* I anazlyed the page in the lighthouse section of the inspect element tool and ill leave a screenshot of the results below.
+
+* All social media links that link to external pages have been tested and are working great.
+
+* The button the the download CV is operating and is working as it should.
+
+* I have tested this website and a number of browsers and all was good. Opera, Google, Firefox, Microsoft Edge.
