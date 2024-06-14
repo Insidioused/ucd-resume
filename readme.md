@@ -55,6 +55,7 @@
 * GitHub
 
 
+##
 
 ## External Styles
 
@@ -65,14 +66,31 @@
 * Hover Affect
 
 
+##Jigsaw CSS Validation
 
-## Screenshots Of Product
+* ![Index Validation](/assets/CSS_Validation/index.html_CSS_Validation.png)
 
-![Home Page](/assets/screenshots/Portfolio_img1.png)
+* ![Resume Validation](/assets/CSS_Validation/resume.html_CSS_Validation.png)
 
-![Resume Page](/assets/screenshots/Portfolio_img2.png)
+* ![Contact Validation](/assets/CSS_Validation/contact.html_CSS_Validation.png)
 
-![Contact Page](/assets/screenshots/Portfolio_img3.png)
+
+## W3C HTML Validation
+
+* ![Index Validation](/assets/HTML_Validation/index.html_HTML_Validation.png)
+
+* ![Resume Validation](/assets/HTML_Validation/resume.html_HTML_Validation.png)
+
+* ![Contact Validation](/assets/HTML_Validation/contact.html_HTML_Validation.png)
+
+
+## Screenshots Of Website
+
+* ![Home Page](/assets/screenshots/Portfolio_img1.png)
+
+* ![Resume Page](/assets/screenshots/Portfolio_img2.png)
+
+* ![Contact Page](/assets/screenshots/Portfolio_img3.png)
 
 
 
@@ -80,8 +98,6 @@
 ## Testing The Web On Local Server
 
 * python3 -m http.server
-
-![Screenshot of using command above](/assets/screenshots/starting_with_python3.png)
 
 
 ## My Hosted Version Of The Site
@@ -104,13 +120,36 @@
 
 * I have tested this website and a number of browsers and all was good. Opera, Google, Firefox, Microsoft Edge.
 
-## Bug Report
+* No bugs were found during the time i have been testing the website. 
 
-* I didnt come across any bugs while making this project as i was following lessons from code institute to make this portfolio website.
 
-## HTML And CSS Validation
+## Deployment Of The Site.
 
-![CSS Validation](/assets/screenshots/css_validatepng)
+* Commited My Work To Github So Its Safe And Saved.
 
-![HTML Validation](/assets/screenshots/html_validate.png)
+* I used one of my old web servers "http://newapi.gearhostpreview.com" hosted on GearHost, to get this website online and viewable.
+
+* Im going to be getting a domain for the site as well just havent thought of what the name of it could be yet.
+
+
+## Rationale
+
+### Website Design
+
+* On my website homepage, there will be four clickable buttons to navigate through the pages. Home, Resume, Contact, and Download CV. Each button will take you to a new page that will have the same page design as the previous page but, of course, a whole new set of content. The home page will explain about me and my information. The resume page shows my work history and skill set. And as expected, Conact will show you my contact information, and the link to the link to download my CV will be a link that will open a new page with a downloadable version of my CV. The design that i have chose is from the Code Institute course and is not designed by me.
+
+### Value It Provides To Users
+
+* This website showcases my skills, projects, and achievements, serving as an interactive resume. It allows potential employers, clients, and collaborators to easily explore my skillset, enhances my personal brand, and demonstrates my technical interests.
+
+### Target Audience
+
+* The targeted audience will be any interested employer that wants more information about me and my work history before contacting me to make sure I'm the one for the job. The site will also be used to show my friends and family what I do and to show off my skillset.
+
+### Initial Ideas
+
+* All the ideas and web design is from Code Institute couse. It is not my design but upon follwing the course i have fully writtern the website myself.
+
+
+## Overall a very functinal and appealing website.
 
